@@ -4,5 +4,5 @@
 >1- Array\
 >2- Linked list\
 >3- Binary trees\
->4- Stack and queues\\
+>4- Stack and queues\ \
 >5- Hash tables
